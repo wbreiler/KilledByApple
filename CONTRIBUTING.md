@@ -4,7 +4,7 @@ Help preserve product history through sourced entries, corrections, and code imp
 
 ## Suggest an entry or report a problem
 
-[Open a GitHub issue](https://github.com/wbreiler/KilledByApple/issues). For a product suggestion, include its name, introduction year, discontinuation year, and reliable source links. For a broken link, identify the entry and suggest a replacement if possible. For a site bug, include reproduction steps and your browser.
+[Open a GitHub issue](https://github.com/wbreiler/KilledByApple/issues). Use the **Suggest a discontinued product** template for catalog additions. For a product suggestion, include its name, introduction year, discontinuation year, and reliable source links. For a broken link, identify the entry and suggest a replacement if possible. For a site bug, include reproduction steps and your browser.
 
 ## Catalog requirements
 

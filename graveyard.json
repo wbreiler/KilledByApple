@@ -441,14 +441,9 @@
     "end": 2004,
     "description": "Karelia’s web service companion for the Mac, and the defining Sherlocking case.",
     "note": "Karelia released Watson in 2001. Apple’s Sherlock 3 adopted overlapping capabilities in 2002 without acquiring Watson. Karelia ended support on October 5, 2004 as part of an agreement with Sun Microsystems. This is a documented Sherlocking case, not an Apple-owned shutdown or proof that Apple alone caused its closure.",
-    "source": "https://www.karelia.com/watson/watsonFAQ.html",
+    "source": "https://en.wikipedia.org/wiki/Karelia_Watson",
     "icon": "software",
     "history": "sherlocked",
-    "references": [
-      {
-        "label": "Developer’s product archive",
-        "url": "https://www.karelia.com/watson/"
-      }
-    ]
+    "references": []
   }
 ]

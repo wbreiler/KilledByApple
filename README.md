@@ -20,6 +20,10 @@ Open http://localhost:3000. Run `npm test` to check the catalog, filters, and so
 - Source links and editorial notes that distinguish discontinuation from a service shutdown.
 - Native accessible dialogs, keyboard focus, reduced-motion support, and live result counts.
 
+## Contribute
+
+Read [CONTRIBUTING.md](CONTRIBUTING.md) for catalog requirements, local checks, and pull request steps. Suggest entries or report problems through [GitHub issues](https://github.com/wbreiler/KilledByApple/issues).
+
 ## Add an entry
 
 Edit `graveyard.json`. Each entry contains `id`, `name`, `type` (`hardware`, `software`, or `service`), `start`, `end`, `description`, `note`, `source`, and `icon`. Each entry also includes `history` (`apple`, `acquired`, or `sherlocked`). Acquired entries include an `acquired` year. Optional `references` contain labeled source URLs. Years are intentionally year-level precision. `icon` accepts `ipod`, `airport`, `hardware`, `software`, `service`, or `photo`.

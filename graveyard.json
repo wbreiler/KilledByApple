@@ -1,0 +1,454 @@
+[
+  {
+    "id": "ipod",
+    "name": "iPod",
+    "type": "hardware",
+    "start": 2001,
+    "end": 2022,
+    "description": "A thousand songs in your pocket. The music player that changed how the world listened.",
+    "note": "Apple ended the entire iPod line in May 2022. The final iPod touch remained available while supplies lasted. Classic, mini, nano, shuffle, and touch belong to this one entry.",
+    "source": "https://www.apple.com/newsroom/2022/05/the-music-lives-on/",
+    "icon": "ipod",
+    "history": "apple"
+  },
+  {
+    "id": "airport",
+    "name": "AirPort",
+    "type": "hardware",
+    "start": 1999,
+    "end": 2018,
+    "description": "Wi-Fi, the Apple way. A family of wireless routers that made home networking feel simple.",
+    "note": "Apple discontinued its wireless router line in April 2018. This entry includes AirPort Express, AirPort Extreme, and AirPort Time Capsule, rather than separate models.",
+    "source": "https://www.macrumors.com/2018/04/26/apple-officially-discontinues-airport-wireless-router-lineup/",
+    "icon": "airport",
+    "history": "apple"
+  },
+  {
+    "id": "xserve",
+    "name": "Xserve",
+    "type": "hardware",
+    "start": 2002,
+    "end": 2011,
+    "description": "Rack-mounted servers that brought the Mac into the data center.",
+    "note": "Apple stopped selling Xserve on January 31, 2011. It recommended Mac mini and Mac Pro systems as alternatives, while honoring existing support agreements.",
+    "source": "https://www.macworld.com/article/208822/xserve_discontinued.html",
+    "icon": "hardware",
+    "history": "apple"
+  },
+  {
+    "id": "newton",
+    "name": "Newton",
+    "type": "hardware",
+    "start": 1993,
+    "end": 1998,
+    "description": "A pen-powered personal assistant that imagined a handheld future before the smartphone.",
+    "note": "Apple ended development of Newton OS and Newton-based hardware in February 1998. This entry covers the platform, including MessagePad and eMate.",
+    "source": "https://preserve.mactech.com/content/md1-apple-discontinues-newton-os-development-0",
+    "icon": "hardware",
+    "history": "apple"
+  },
+  {
+    "id": "apple-ii",
+    "name": "Apple II",
+    "type": "hardware",
+    "start": 1977,
+    "end": 1993,
+    "description": "The personal computer family that brought color, games, and computing into homes and classrooms.",
+    "note": "The Apple II family ended in 1993 when Apple discontinued its remaining Apple IIe. All models in the family share this entry.",
+    "source": "https://en.wikipedia.org/wiki/Apple_II_series",
+    "icon": "hardware",
+    "history": "apple"
+  },
+  {
+    "id": "powerbook",
+    "name": "PowerBook",
+    "type": "hardware",
+    "start": 1991,
+    "end": 2006,
+    "description": "Apple’s notebook family, from early portable Macs to the aluminum era.",
+    "note": "Apple retired the PowerBook line during its 2006 transition to Intel-based MacBook Pro notebooks. The Mac notebook category continued under a new product line.",
+    "source": "https://en.wikipedia.org/wiki/PowerBook",
+    "icon": "hardware",
+    "history": "apple"
+  },
+  {
+    "id": "aperture",
+    "name": "Aperture",
+    "type": "software",
+    "start": 2005,
+    "end": 2015,
+    "description": "A digital darkroom for photographers, with professional tools to organize and edit their work.",
+    "note": "Apple announced the end of development in 2014 and removed Aperture from sale in April 2015 after Photos for Mac launched. Existing copies continued to work on older macOS versions.",
+    "source": "https://www.macrumors.com/2015/04/10/iphoto-aperture-removed-mac-app-store/",
+    "icon": "photo",
+    "history": "apple"
+  },
+  {
+    "id": "iphoto",
+    "name": "iPhoto",
+    "type": "software",
+    "start": 2002,
+    "end": 2015,
+    "description": "The photo library that turned digital snapshots into albums, books, and memories.",
+    "note": "Apple removed iPhoto from the Mac App Store in April 2015. Photos replaced it, with tools to migrate existing photo libraries.",
+    "source": "https://www.macrumors.com/2015/04/10/iphoto-aperture-removed-mac-app-store/",
+    "icon": "photo",
+    "history": "apple"
+  },
+  {
+    "id": "iweb",
+    "name": "iWeb",
+    "type": "software",
+    "start": 2006,
+    "end": 2011,
+    "description": "A website builder that let Mac users publish personal sites without writing code.",
+    "note": "Apple stopped developing iWeb in 2011. Its MobileMe hosting ended in June 2012, although users could still publish existing sites to other hosts.",
+    "source": "https://en.wikipedia.org/wiki/IWeb",
+    "icon": "software",
+    "history": "apple"
+  },
+  {
+    "id": "idvd",
+    "name": "iDVD",
+    "type": "software",
+    "start": 2001,
+    "end": 2011,
+    "description": "Home movies, complete with menus. An easy way to turn a video project into a DVD.",
+    "note": "Apple stopped including iDVD with new Macs in 2011. Older iLife packages remained available for a time, but the application received no new major version.",
+    "source": "https://en.wikipedia.org/wiki/IDVD",
+    "icon": "software",
+    "history": "apple"
+  },
+  {
+    "id": "ibooks-author",
+    "name": "iBooks Author",
+    "type": "software",
+    "start": 2012,
+    "end": 2020,
+    "description": "A Mac app for creating interactive books with rich layouts, media, and learning materials.",
+    "note": "Apple discontinued iBooks Author and removed it from the App Store on July 1, 2020. Apple directed authors to the book creation tools in Pages.",
+    "source": "https://www.macrumors.com/2020/06/10/apple-discontinuing-ibooks-author/",
+    "icon": "software",
+    "history": "apple"
+  },
+  {
+    "id": "macos-server",
+    "name": "macOS Server",
+    "type": "software",
+    "start": 1999,
+    "end": 2022,
+    "description": "The Mac’s server software, built to manage users, networks, and shared services.",
+    "note": "Apple discontinued macOS Server on April 21, 2022. Some former features, such as file sharing and content caching, remained available in macOS itself.",
+    "source": "https://www.macworld.com/article/634243/macos-server-discontinued-monterey-caching-file-sharing-time-machine.html",
+    "icon": "software",
+    "history": "apple"
+  },
+  {
+    "id": "dashboard",
+    "name": "Dashboard",
+    "type": "software",
+    "start": 2005,
+    "end": 2019,
+    "description": "A home for tiny, useful widgets. Weather, calculators, and sticky notes, one key away.",
+    "note": "Apple removed Dashboard in macOS Catalina in 2019. This entry covers the original Dashboard environment, not the newer widgets in macOS.",
+    "source": "https://www.macrumors.com/2019/06/13/goodbye-dashboard/",
+    "icon": "software",
+    "history": "apple"
+  },
+  {
+    "id": "front-row",
+    "name": "Front Row",
+    "type": "software",
+    "start": 2005,
+    "end": 2011,
+    "description": "A remote-controlled, full-screen home for your Mac’s music, movies, and photos.",
+    "note": "Apple removed Front Row with OS X Lion in July 2011. Its media-center interface no longer shipped with the operating system.",
+    "source": "https://en.wikipedia.org/wiki/Front_Row_(software)",
+    "icon": "software",
+    "history": "apple"
+  },
+  {
+    "id": "apple-pay-later",
+    "name": "Apple Pay Later",
+    "type": "service",
+    "start": 2023,
+    "end": 2024,
+    "description": "A short-lived service that split an Apple Pay purchase into four interest-free payments.",
+    "note": "Apple stopped offering new Apple Pay Later loans in June 2024. Existing borrowers could still manage repayments. Apple Pay itself continues to operate.",
+    "source": "https://www.macrumors.com/2024/06/17/apple-discontinuing-apple-pay-later/",
+    "icon": "service",
+    "history": "apple"
+  },
+  {
+    "id": "my-photo-stream",
+    "name": "My Photo Stream",
+    "type": "service",
+    "start": 2011,
+    "end": 2023,
+    "description": "Your latest photos, automatically shared across your Apple devices without an iCloud storage bill.",
+    "note": "My Photo Stream shut down on July 26, 2023. Apple recommended iCloud Photos instead. This entry does not include iCloud Photos or Shared Albums.",
+    "source": "https://www.macrumors.com/2023/05/26/my-photo-stream-july-2023-shutdown/",
+    "icon": "photo",
+    "history": "apple"
+  },
+  {
+    "id": "mobileme",
+    "name": "MobileMe",
+    "type": "service",
+    "start": 2008,
+    "end": 2012,
+    "description": "Mail, contacts, calendars, and a little corner of the web, all kept in sync.",
+    "note": "The MobileMe-branded service launched in 2008 and closed on June 30, 2012 after the introduction of iCloud. Its predecessors, iTools and .Mac, are not counted separately.",
+    "source": "https://en.wikipedia.org/wiki/MobileMe",
+    "icon": "service",
+    "history": "apple"
+  },
+  {
+    "id": "texture",
+    "name": "Texture",
+    "type": "service",
+    "start": 2012,
+    "end": 2019,
+    "description": "A digital magazine subscription that put a whole newsstand on your screen.",
+    "note": "Originally launched as Next Issue in 2012, the service became Texture in 2015. Apple acquired it in 2018 and closed it on May 28, 2019 after launching Apple News+.",
+    "source": "https://www.macrumors.com/guide/texture/",
+    "icon": "service",
+    "history": "acquired",
+    "acquired": 2018
+  },
+  {
+    "id": "dark-sky",
+    "name": "Dark Sky",
+    "type": "software",
+    "start": 2012,
+    "end": 2023,
+    "description": "Minute-by-minute rain forecasts from a weather app with a devoted following.",
+    "note": "Apple acquired Dark Sky in March 2020. The Android app closed in August 2020, the iOS app on January 1, 2023, and API support on March 31, 2023. Its forecasting technology lives on in Apple Weather and WeatherKit.",
+    "source": "https://support.apple.com/en-us/102594",
+    "icon": "service",
+    "history": "acquired",
+    "acquired": 2020,
+    "references": [
+      {
+        "label": "Acquisition and app shutdown",
+        "url": "https://www.macrumors.com/2022/09/13/apple-acquired-dark-sky-ios-app-shut-down/"
+      },
+      {
+        "label": "Product history",
+        "url": "https://appleinsider.com/inside/dark-sky"
+      }
+    ]
+  },
+  {
+    "id": "primephonic",
+    "name": "Primephonic",
+    "type": "service",
+    "start": 2017,
+    "end": 2021,
+    "description": "Classical music streaming with search built around composers, works, and recordings.",
+    "note": "Apple acquired Primephonic in August 2021 and closed the service on September 7, 2021. Its expertise and technology contributed to Apple Music Classical. The start year refers to its streaming service.",
+    "source": "https://www.apple.com/newsroom/2021/08/apple-acquires-classical-music-streaming-service-primephonic/",
+    "icon": "service",
+    "history": "acquired",
+    "acquired": 2021,
+    "references": [
+      {
+        "label": "Product history",
+        "url": "https://en.wikipedia.org/wiki/Primephonic"
+      }
+    ]
+  },
+  {
+    "id": "beats-music",
+    "name": "Beats Music",
+    "type": "service",
+    "start": 2014,
+    "end": 2015,
+    "description": "A subscription music service that put human curation at the center of discovery.",
+    "note": "Apple acquired Beats in 2014 and closed Beats Music on November 30, 2015. Subscribers were directed to Apple Music. This entry covers the streaming service, not the continuing Beats hardware brand.",
+    "source": "https://www.macrumors.com/2015/11/12/beats-music-ending-november-30/",
+    "icon": "service",
+    "history": "acquired",
+    "acquired": 2014,
+    "references": [
+      {
+        "label": "Launch and acquisition history",
+        "url": "https://en.wikipedia.org/wiki/Beats_Music"
+      }
+    ]
+  },
+  {
+    "id": "lala",
+    "name": "Lala",
+    "type": "service",
+    "start": 2006,
+    "end": 2010,
+    "description": "An online music service that evolved from CD trading into a streaming music library.",
+    "note": "Apple acquired Lala in December 2009 and closed it on May 31, 2010. Eligible users received iTunes Store credit for web songs and remaining account balances.",
+    "source": "https://www.macrumors.com/2010/06/01/apple-owned-lala-media-shuts-down-on-schedule/",
+    "icon": "service",
+    "history": "acquired",
+    "acquired": 2009,
+    "references": [
+      {
+        "label": "Launch and acquisition history",
+        "url": "https://en.wikipedia.org/wiki/Lala_(website)"
+      }
+    ]
+  },
+  {
+    "id": "hopstop",
+    "name": "HopStop",
+    "type": "service",
+    "start": 2005,
+    "end": 2015,
+    "description": "Public transit directions for navigating cities by bus, subway, rail, and foot.",
+    "note": "Apple acquired HopStop in July 2013 and closed its apps and website in October 2015 after introducing transit directions in Apple Maps. The original service covered cities that Apple Maps did not yet support.",
+    "source": "https://9to5mac.com/2015/09/14/apple-shutting-down-hopstop-transit-app-in-october-despite-ios-9s-limited-availability/",
+    "icon": "service",
+    "history": "acquired",
+    "acquired": 2013,
+    "references": [
+      {
+        "label": "Product history",
+        "url": "https://en.wikipedia.org/wiki/HopStop"
+      }
+    ]
+  },
+  {
+    "id": "beddit",
+    "name": "Beddit Sleep Monitor",
+    "type": "hardware",
+    "start": 2013,
+    "end": 2022,
+    "description": "A thin sensor under your bedsheet that tracked sleep without a wearable device.",
+    "note": "Apple acquired Beddit in 2017 and discontinued the entire consumer sleep monitor line in January 2022. The start year refers to its first consumer tracker, not the company’s earlier professional equipment.",
+    "source": "https://9to5mac.com/2022/01/10/apple-watch-sleep-tracking-upgrades-beddit/",
+    "icon": "hardware",
+    "history": "acquired",
+    "acquired": 2017,
+    "references": [
+      {
+        "label": "Consumer launch",
+        "url": "https://en.wikipedia.org/wiki/Beddit"
+      }
+    ]
+  },
+  {
+    "id": "shake",
+    "name": "Shake",
+    "type": "software",
+    "start": 1997,
+    "end": 2009,
+    "description": "A professional compositing application used to create visual effects for film.",
+    "note": "Nothing Real introduced Shake in 1997. Apple acquired the company in 2002 and discontinued Shake in July 2009. This entry covers the complete application, not individual releases.",
+    "source": "https://www.macrumors.com/2009/07/30/apple-finally-discontinues-shake/",
+    "icon": "software",
+    "history": "acquired",
+    "acquired": 2002,
+    "references": [
+      {
+        "label": "Launch and acquisition history",
+        "url": "https://en.wikipedia.org/wiki/Shake_(software)"
+      }
+    ]
+  },
+  {
+    "id": "final-cut-express",
+    "name": "Final Cut Express",
+    "type": "software",
+    "start": 2003,
+    "end": 2011,
+    "description": "A video editor that bridged the gap between iMovie and professional filmmaking tools.",
+    "note": "Apple introduced Final Cut Express in 2003 and discontinued it in June 2011 when Final Cut Pro X launched. Final Cut Pro continues as a separate product.",
+    "source": "https://en.wikipedia.org/wiki/Final_Cut_Express",
+    "icon": "software",
+    "history": "apple",
+    "references": [
+      {
+        "label": "Apple launch announcement",
+        "url": "https://www.apple.com/newsroom/2003/01/07Apple-Unveils-Final-Cut-Express/"
+      }
+    ]
+  },
+  {
+    "id": "soundtrack-pro",
+    "name": "Soundtrack Pro",
+    "type": "software",
+    "start": 2005,
+    "end": 2011,
+    "description": "An audio editor for repairing recordings, designing sound, and mixing video soundtracks.",
+    "note": "Apple introduced Soundtrack Pro in 2005, following the earlier Soundtrack application. It disappeared from Final Cut Studio with the 2011 transition to Final Cut Pro X and from Logic Studio later that year.",
+    "source": "https://en.wikipedia.org/wiki/Soundtrack_Pro",
+    "icon": "software",
+    "history": "apple",
+    "references": [
+      {
+        "label": "Apple launch announcement",
+        "url": "https://www.apple.com/newsroom/2005/04/17Apple-Introduces-Soundtrack-Pro/"
+      }
+    ]
+  },
+  {
+    "id": "sherlock",
+    "name": "Sherlock",
+    "type": "software",
+    "start": 1998,
+    "end": 2007,
+    "description": "A Mac search tool that evolved into a collection of web service channels.",
+    "note": "Sherlock arrived with Mac OS 8.5 in 1998 and was removed in Mac OS X Leopard in 2007. Sherlock 3’s overlap with Karelia’s Watson helped give “Sherlocking” its name. Watson has its own entry with the developer’s account.",
+    "source": "https://en.wikipedia.org/wiki/Sherlock_(software)",
+    "icon": "software",
+    "history": "apple",
+    "references": []
+  },
+  {
+    "id": "iad",
+    "name": "iAd App Network",
+    "type": "service",
+    "start": 2010,
+    "end": 2016,
+    "description": "Apple’s mobile advertising network for interactive ads inside iPhone and iPad apps.",
+    "note": "Apple launched iAd in 2010 and closed the iAd App Network on June 30, 2016. This entry covers that advertising network, not all of Apple’s advertising business.",
+    "source": "https://developer.apple.com/news/?id=01152016a",
+    "icon": "service",
+    "history": "apple",
+    "references": [
+      {
+        "label": "Product history",
+        "url": "https://en.wikipedia.org/wiki/IAd"
+      }
+    ]
+  },
+  {
+    "id": "ping",
+    "name": "iTunes Ping",
+    "type": "service",
+    "start": 2010,
+    "end": 2012,
+    "description": "A music social network inside iTunes for following artists and sharing discoveries.",
+    "note": "Apple launched Ping in September 2010 and closed it on September 30, 2012. Its closure did not discontinue iTunes itself.",
+    "source": "https://www.macworld.com/article/219179/apples-ping-to-cease-operation-sep-30.html",
+    "icon": "service",
+    "history": "apple",
+    "references": []
+  },
+  {
+    "id": "watson",
+    "name": "Watson",
+    "type": "software",
+    "start": 2001,
+    "end": 2004,
+    "description": "Karelia’s web service companion for the Mac, and the defining Sherlocking case.",
+    "note": "Karelia released Watson in 2001. Apple’s Sherlock 3 adopted overlapping capabilities in 2002 without acquiring Watson. Karelia ended support on October 5, 2004 as part of an agreement with Sun Microsystems. This is a documented Sherlocking case, not an Apple-owned shutdown or proof that Apple alone caused its closure.",
+    "source": "https://www.karelia.com/watson/watsonFAQ.html",
+    "icon": "software",
+    "history": "sherlocked",
+    "references": [
+      {
+        "label": "Developer’s product archive",
+        "url": "https://www.karelia.com/watson/"
+      }
+    ]
+  }
+]
